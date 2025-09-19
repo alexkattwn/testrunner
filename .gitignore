@@ -1,0 +1,62 @@
+# Build results
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# Visual Studio cache/options
+.vs/
+.vscode/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Test results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+*.tlog
+
+# NuGet
+*.nupkg
+*.snupkg
+*.nuspec
+packages/
+*.nuget.props
+*.nuget.targets
+
+# Backup & generated files
+*.bak
+*.tmp
+*.temp
+*.log
+*.svclog
+*.pidb
+*.scc
+
+# Publish
+*.Publish.xml
+publish/
+app.publish/
+
+# Results of our app
+Results/
+
+# Resharper / Rider / other IDEs
+_ReSharper*/
+*.DotSettings.user
+.idea/
+
+# Windows files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Others
+*.exe
+*.dll
+*.pdb
+*.cache
+*.dbmdl
+*.jfm
